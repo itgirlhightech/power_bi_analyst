@@ -24,10 +24,7 @@ O relatório possui **duas páginas**, com dashboards e indicadores interativos 
   * Ano (`Year`)
   * País (`Country`)
   * Segmento (`Segment`)
-* **KPIs principais:**
 
-  * Gross Sales
-  * Profit
 
 **Print da Página 1:**
 ![Página 1](dataset/img/Captura%20de%20tela%202025-10-19%20111059.png)
