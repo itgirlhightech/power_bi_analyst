@@ -36,7 +36,7 @@ O relatório possui **duas páginas**, com dashboards e indicadores interativos 
 * **Título:** “Analysis & Insights”
 * **Gráficos incluídos:**
 
-  * **Barras empilhadas:** `Profit by Segment and Country`
+  * **Barras empilhadas:** `Profit by Segment`
   * **Gráfico de rosca:** `Sale Price by Discount Band` (visualiza a participação de cada faixa de desconto no total de vendas)
   * **Colunas:** evolução de `Gross Sales` ao longo do tempo
 
